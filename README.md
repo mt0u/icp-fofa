@@ -15,6 +15,9 @@ pandas
 
 注意：如果不想再原本的基础上添加内容，请将 备案信息.xlsx 删除
 
+照片展示：
+
 
 再注：这是简单修改了另一位师傅的代码，使其可以进行批量的备案查询
+
 核心代码来自：https://github.com/wongzeon/ICP-Checker
