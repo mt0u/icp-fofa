@@ -15,14 +15,7 @@
 
 可以输入一个或多个公司名或域名，得到备案信息，转为fofa语句，供你查询
 
-必要库
-opencv_python==4.5.5.64
-
-openpyxl==3.0.9
-
-requests==2.26.0
-
-pandas
+记得安装必要的库 pip3 install -r requirements.txt
 
 
 
