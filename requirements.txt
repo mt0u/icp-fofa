@@ -1,0 +1,4 @@
+opencv_python==4.5.5.64
+openpyxl==3.0.9
+requests==2.26.0
+pandas
