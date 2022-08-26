@@ -27,6 +27,8 @@ pandas
 
 
 照片展示：
+![image](https://user-images.githubusercontent.com/88358139/186870419-b4c7a796-2cb9-4171-a6d9-ccf082556859.png)
+
 
 
 再注：这是简单修改了另一位师傅的代码，使其可以进行批量的备案查询
