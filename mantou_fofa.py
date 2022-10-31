@@ -35,7 +35,7 @@ def mantou_domain():
     fofa_lis_domain = "利用子域名进行fofa查询：\n("
     for l in (lis_beian):
         fofa_lis_domain = fofa_lis_domain + '||host="' + l + '"'
-    fofa_lis_domain = fofa_lis_domain + ')&&header="200"\n\n'
+    fofa_lis_domain = fofa_lis_domain + ')&&domain="200"\n\n'
     # 写入文件
     f.write(fofa_lis_domain)
 
